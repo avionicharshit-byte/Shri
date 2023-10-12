@@ -15,7 +15,9 @@ Features 👎
 
 . Simple and User-Friendly Interface
   
-  
+  ![shri1](https://github.com/avionicharshit-byte/shri-chatgptForBlind/assets/78672319/666421f7-7d35-418f-91b9-080df7436f62)
+![shri2](https://github.com/avionicharshit-byte/shri-chatgptForBlind/assets/78672319/a7ee8885-3ffd-41d5-be30-3fb532018e83)
+
 
 How to Use :-
 
@@ -28,6 +30,8 @@ How to Use :-
 4. Choose the output format - speech or braille code.
 
 5. The app will provide you with the converted output.
+
+
 
 
 
